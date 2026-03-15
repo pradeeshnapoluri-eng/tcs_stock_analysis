@@ -1,0 +1,12 @@
+Feature,RF_Importance,XGB_Importance
+Low,0.4069,0.3697
+Open,0.2379,0.0064
+High,0.2062,0.5102
+Prev_Close,0.1052,0.0004
+MA7,0.0434,0.1125
+MA30,0.0004,0.0007
+Price_Range,0.0,0.0
+Volume,0.0,0.0
+Month,0.0,0.0
+Day_of_Week,0.0,0.0
+Quarter,0.0,0.0
